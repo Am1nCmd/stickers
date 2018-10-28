@@ -4,8 +4,8 @@
     "sticker_packs" : [
     {
         "identifier": "cuppyID",
-        "name": "Cuppy",
-        "publisher": "Jane Doe",
+        "name": "rJB",
+        "publisher": "Amin Aenurahman",
         "tray_image_file" : "tray_Cuppy.png",
         "publisher_website" : "",
         "privacy_policy_website" : "",
@@ -82,22 +82,7 @@
         {
             "image_file": "18_Cuppy_workhard.png",
             "emojis": ["😔", "😨"]
-        },
-        {
-            "image_file": "19_Cuppy_shine.png",
-            "emojis": ["🎉","✨"]
-        },
-        {
-            "image_file": "20_Cuppy_disgusting.png",
-            "emojis": ["🤮","👎"]
-        },
-        {
-            "image_file": "21_Cuppy_hi.png",
-            "emojis": ["🖐","🙋"]
-        },
-        {
-            "image_file": "22_Cuppy_bye.png",
-            "emojis": ["🖐","👋"]
-        }]
+        }
+        ]
     }]
 }
