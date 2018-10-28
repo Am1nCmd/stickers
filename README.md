@@ -172,3 +172,12 @@ Format your sticker data into a JSON object with the structure described below. 
 Important notes:
 * `tray_image` uses PNG data whereas `image_data` uses WebP data.
 * You can only send one sticker pack at a time
+
+## How To Sideload Install IPA Files Using Cydia Impactor
+- Download the IPA.
+- Download Cydia Impactor from http://www.cydiaimpactor.com/
+- Connect your device to your computer.
+- Start Cydia Impactor and drag the IPA onto the top field.
+- Enter your Apple ID credentials.
+- On your device, go to "Settings > General > Device Management" and trust the certificate.
+- Profit
