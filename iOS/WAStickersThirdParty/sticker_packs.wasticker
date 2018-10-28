@@ -3,86 +3,133 @@
     "android_play_store_link" : "",
     "sticker_packs" : [
     {
-        "identifier": "cuppyID",
-        "name": "rJB",
+        "identifier": "SteveJobs",
+        "name": "Steve Jobs",
         "publisher": "Amin Aenurahman",
         "tray_image_file" : "tray_Cuppy.png",
-        "publisher_website" : "",
+        "publisher_website" : "github.com/Am1nCmd",
         "privacy_policy_website" : "",
         "license_agreement_website" : "",
         "stickers": [
         {
-            "image_file": "01_Cuppy_smile.png",
-            "emojis": ["☕","🙂"]
+            "image_file": "1.png",
+            "emojis": ["❤️"]
         },
         {
-            "image_file": "02_Cuppy_lol.png",
-            "emojis": ["😄","😀"]
+            "image_file": "2.png",
+            "emojis": ["😅"]
         },
         {
-            "image_file": "03_Cuppy_rofl.png",
-            "emojis": ["😆","😂"]
+            "image_file": "3.png",
+            "emojis": ["👍"]
         },
         {
-            "image_file": "04_Cuppy_sad.png",
-            "emojis": ["😃", "😍"]
+            "image_file": "4.png",
+            "emojis": ["🖐"]
         },
         {
-            "image_file": "05_Cuppy_cry.png",
-            "emojis": ["😭","💧"]
+            "image_file": "5.png",
+            "emojis": ["😭"]
         },
         {
-            "image_file": "06_Cuppy_love.png",
-            "emojis": ["😍","♥"]
+            "image_file": "6.png",
+            "emojis": ["👍"]
         },
         {
-            "image_file": "07_Cuppy_hate.png",
-            "emojis": ["💔","👎"]
+            "image_file": "7.png",
+            "emojis": ["🤝"]
         },
         {
-            "image_file": "08_Cuppy_lovewithmug.png",
-            "emojis": ["😍","💑"]
+            "image_file": "8.png",
+            "emojis": ["🤔"]
         },
         {
-            "image_file": "09_Cuppy_lovewithcookie.png",
-            "emojis": ["😘","🍪"]
+            "image_file": "9.png",
+            "emojis": ["🤔"]
         },
         {
-            "image_file": "10_Cuppy_hmm.png",
-            "emojis": ["🤔","😐"]
+            "image_file": "10.png",
+            "emojis": ["😉"]
         },
         {
-            "image_file": "11_Cuppy_upset.png",
-            "emojis": ["😱","😵"]
+            "image_file": "11.png",
+            "emojis": ["😎"]
         },
         {
-            "image_file": "12_Cuppy_angry.png",
-            "emojis": ["😡","😠"]
+            "image_file": "12.png",
+            "emojis": ["👎"]
         },
         {
-            "image_file": "13_Cuppy_curious.png",
-            "emojis": ["❓","🤔"]
+            "image_file": "13.png",
+            "emojis": ["😰"]
         },
         {
-            "image_file": "14_Cuppy_weird.png",
-            "emojis": ["🌈","😜"]
+            "image_file": "14.png",
+            "emojis": ["🤝"]
         },
         {
-            "image_file": "15_Cuppy_bluescreen.png",
-            "emojis": ["💻","😩"]
+            "image_file": "15.png",
+            "emojis": ["👌"]
         },
         {
-            "image_file": "16_Cuppy_angry.png",
-            "emojis": ["😡","😤"]
+            "image_file": "16.png",
+            "emojis": ["😥"]
         },
         {
-            "image_file": "17_Cuppy_tired.png",
-            "emojis": ["😩","😨"]
+            "image_file": "17.png",
+            "emojis": ["😜"]
         },
         {
-            "image_file": "18_Cuppy_workhard.png",
-            "emojis": ["😔", "😨"]
-        }
-        ]
+            "image_file": "18.png",
+            "emojis": ["🤔"]
+        },
+        {
+            "image_file": "19.png",
+            "emojis": ["🤔"]
+        },
+        {
+            "image_file": "20.png",
+            "emojis": ["✌️"]
+        },
+        {
+            "image_file": "21.png",
+            "emojis": ["😡"]
+        },
+        {
+            "image_file": "22.png",
+            "emojis": ["😜"]
+        },
+        {
+            "image_file": "23.png",
+            "emojis": ["🙏"]
+        },
+        {
+            "image_file": "24.png",
+            "emojis": ["😐"]
+        },
+        {
+            "image_file": "25.png",
+            "emojis": ["👊"]
+        },
+        {
+            "image_file": "26.png",
+            "emojis": ["😰"]
+        },
+        {
+            "image_file": "27.png",
+            "emojis": ["😘"]
+        },
+        {
+            "image_file": "28.png",
+            "emojis": ["🖕"]
+        },
+        {
+            "image_file": "29.png",
+            "emojis": ["🤗"]
+        },
+        {
+            "image_file": "30.png",
+            "emojis": ["🤣"]
+        }]
     }]
 }

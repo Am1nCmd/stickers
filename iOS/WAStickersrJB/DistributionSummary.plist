@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WAStickersThirdParty.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3AFA80E99FD4F94B3A1A52019BEA0101DAABCA36</string>
+				<key>dateExpires</key>
+				<string>28/10/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>EBLE6NHT75.com.WAStickersrJB</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>EBLE6NHT75</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>EBLE6NHT75.com.WAStickersrJB</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>WAStickersThirdParty.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6fdfb242-6be9-42d4-bf11-a75166f06830</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>EBLE6NHT75</string>
+				<key>name</key>
+				<string>Achmad Darmawan</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

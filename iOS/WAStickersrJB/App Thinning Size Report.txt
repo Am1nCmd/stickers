@@ -1,0 +1,78 @@
+
+App Thinning Size Report for All Variants of WAStickersThirdParty
+
+Variant: WAStickersThirdParty-058F6906-73CE-404A-854F-8D62CBAF5086.ipa
+Supported variant descriptors: [device: iPhone9,2, os-version: 11], [device: iPhone7,1, os-version: 9], [device: iPhone7,1, os-version: 10], [device: iPhone10,2, os-version: 11], [device: iPhone8,2, os-version: 11], [device: iPhone9,4, os-version: 10], [device: iPhone7,1, os-version: 11], [device: iPhone9,2, os-version: 10], [device: iPhone10,6, os-version: 11], [device: iPhone9,4, os-version: 11], [device: iPhone8,2, os-version: 9], [device: iPhone10,3, os-version: 11], [device: iPhone8,2, os-version: 10], and [device: iPhone10,5, os-version: 11]
+App + On Demand Resources size: 3,5 MB compressed, 8,4 MB uncompressed
+App size: 3,5 MB compressed, 8,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-05C75609-D2EB-4992-8882-79B7772A4B04.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 3,5 MB compressed, 8,4 MB uncompressed
+App size: 3,5 MB compressed, 8,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-05F9CB22-6AC8-4D8B-B4D1-D12D96E5C4BF.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 9], [device: iPhone6,1, os-version: 10], [device: iPhone8,1, os-version: 10], [device: iPod7,1, os-version: 10], [device: iPhone10,4, os-version: 11], [device: iPhone9,3, os-version: 10], [device: iPhone9,9, os-version: 10], [device: iPhone6,2, os-version: 11], [device: iPhone8,1, os-version: 11], [device: iPhone9,3, os-version: 11], [device: iPhone9,8, os-version: 10], [device: iPhone10,1, os-version: 11], [device: iPhone6,1, os-version: 9], [device: iPhone8,4, os-version: 10], [device: iPhone8,4, os-version: 11], [device: iPhone7,2, os-version: 9], [device: iPhone7,2, os-version: 11], [device: iPhone9,1, os-version: 10], [device: iPhone6,2, os-version: 9], [device: iPhone6,1, os-version: 11], [device: iPod7,1, os-version: 11], [device: iPhone8,1, os-version: 9], [device: iPhone6,2, os-version: 10], [device: iPhone9,7, os-version: 10], [device: iPhone8,4, os-version: 9], [device: iPhone7,2, os-version: 10], and [device: iPhone9,1, os-version: 11]
+App + On Demand Resources size: 3,5 MB compressed, 8,4 MB uncompressed
+App size: 3,5 MB compressed, 8,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-17E64A81-0FA4-4E1D-A4A3-6A229D0BC6CD.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 12], [device: iPhone6,1, os-version: 12], [device: iPhone8,4, os-version: 12], [device: iPhone9,1, os-version: 12], [device: iPhone10,1, os-version: 12], [device: iPhone10,4, os-version: 12], [device: iPhone6,2, os-version: 12], [device: iPhone7,2, os-version: 12], [device: iPhone9,3, os-version: 12], and [device: iPhone8,1, os-version: 12]
+App + On Demand Resources size: 3,5 MB compressed, 8,4 MB uncompressed
+App size: 3,5 MB compressed, 8,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-28576C07-754E-4642-820C-91528B802C7F.ipa
+Supported variant descriptors: [device: iPad2,2, os-version: 9], [device: iPad2,3, os-version: 9], [device: iPad2,5, os-version: 9], [device: iPad2,6, os-version: 9], [device: iPad2,1, os-version: 9], [device: iPad2,4, os-version: 9], and [device: iPad2,7, os-version: 9]
+App + On Demand Resources size: 3,7 MB compressed, 7,3 MB uncompressed
+App size: 3,7 MB compressed, 7,3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-3EED9B2F-F079-42A4-A5F2-26F64473850D.ipa
+Supported variant descriptors: [device: iPhone5,4, os-version: 10], [device: iPhone5,2, os-version: 9], [device: iPhone5,4, os-version: 9], [device: iPhone5,1, os-version: 9], [device: iPhone5,1, os-version: 11], [device: iPhone5,3, os-version: 11], [device: iPhone5,1, os-version: 10], [device: iPhone5,2, os-version: 11], [device: iPod5,1, os-version: 9], [device: iPhone5,3, os-version: 9], [device: iPhone4,1, os-version: 9], [device: iPhone5,3, os-version: 10], [device: iPhone5,2, os-version: 10], and [device: iPhone5,4, os-version: 11]
+App + On Demand Resources size: 3,7 MB compressed, 7,3 MB uncompressed
+App size: 3,7 MB compressed, 7,3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-422B052B-3431-40F0-9C51-759F336914D3.ipa
+Supported variant descriptors: [device: iPad7,6, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad5,2, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad6,12, os-version: 12], [device: iPad7,3, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad4,1, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad6,3, os-version: 12], and [device: iPad4,4, os-version: 12]
+App + On Demand Resources size: 3,5 MB compressed, 8,4 MB uncompressed
+App size: 3,5 MB compressed, 8,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-B3F6D047-89A9-4CEE-A6BB-58D420E7EA71.ipa
+Supported variant descriptors: [device: iPad6,11, os-version: 11], [device: iPad4,9, os-version: 10], [device: iPad4,5, os-version: 9], [device: iPad6,8, os-version: 11], [device: iPad4,9, os-version: 11], [device: iPad7,2, os-version: 11], [device: iPad5,1, os-version: 11], [device: iPad5,3, os-version: 11], [device: iPad5,1, os-version: 9], [device: iPad7,4, os-version: 11], [device: iPad4,7, os-version: 10], [device: iPad4,2, os-version: 10], [device: iPad6,7, os-version: 11], [device: iPad4,7, os-version: 9], [device: iPad4,7, os-version: 11], [device: iPad4,6, os-version: 10], [device: iPad6,7, os-version: 9], [device: iPad4,2, os-version: 9], [device: iPad7,3, os-version: 10], [device: iPad4,3, os-version: 9], [device: iPad5,3, os-version: 10], [device: iPad7,2, os-version: 10], [device: iPad4,8, os-version: 10], [device: iPad4,5, os-version: 11], [device: iPad5,2, os-version: 9], [device: iPad7,1, os-version: 10], [device: iPad4,2, os-version: 11], [device: iPad6,3, os-version: 11], [device: iPad6,4, os-version: 9], [device: iPad4,1, os-version: 9], [device: iPad6,12, os-version: 10], [device: iPad6,11, os-version: 10], [device: iPad4,6, os-version: 9], [device: iPad6,4, os-version: 10], [device: iPad6,7, os-version: 10], [device: iPad6,3, os-version: 10], [device: iPad5,2, os-version: 10], [device: iPad4,3, os-version: 11], [device: iPad4,4, os-version: 9], [device: iPad6,12, os-version: 11], [device: iPad4,1, os-version: 10], [device: iPad4,4, os-version: 10], [device: iPad5,1, os-version: 10], [device: iPad7,4, os-version: 10], [device: iPad4,8, os-version: 11], [device: iPad5,4, os-version: 9], [device: iPad4,9, os-version: 9], [device: iPad7,5, os-version: 11], [device: iPad4,1, os-version: 11], [device: iPad6,3, os-version: 9], [device: iPad6,4, os-version: 11], [device: iPad5,3, os-version: 9], [device: iPad6,8, os-version: 9], [device: iPad4,3, os-version: 10], [device: iPad4,6, os-version: 11], [device: iPad7,3, os-version: 11], [device: iPad7,6, os-version: 11], [device: iPad7,1, os-version: 11], [device: iPad4,8, os-version: 9], [device: iPad4,4, os-version: 11], [device: iPad6,8, os-version: 10], [device: iPad5,4, os-version: 10], [device: iPad4,5, os-version: 10], [device: iPad5,2, os-version: 11], and [device: iPad5,4, os-version: 11]
+App + On Demand Resources size: 3,5 MB compressed, 8,4 MB uncompressed
+App size: 3,5 MB compressed, 8,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-CEDE3B7C-479D-44D2-8439-F6909B15860E.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12], [device: iPhone8,2, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone7,1, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone11,4, os-version: 12], [device: iPhone9,2, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone10,6, os-version: 12], and [device: iPhone11,2, os-version: 12]
+App + On Demand Resources size: 3,5 MB compressed, 8,4 MB uncompressed
+App size: 3,5 MB compressed, 8,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty-EF35AECC-CB6C-49A2-90B2-A494F450370D.ipa
+Supported variant descriptors: [device: iPad3,4, os-version: 11], [device: iPad3,3, os-version: 9], [device: iPad3,5, os-version: 11], [device: iPad3,6, os-version: 9], [device: iPad3,4, os-version: 10], [device: iPad3,6, os-version: 10], [device: iPad3,1, os-version: 9], [device: iPad3,5, os-version: 9], [device: iPad3,5, os-version: 10], [device: iPad3,6, os-version: 11], [device: iPad3,2, os-version: 9], and [device: iPad3,4, os-version: 9]
+App + On Demand Resources size: 3,7 MB compressed, 7,3 MB uncompressed
+App size: 3,7 MB compressed, 7,3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: WAStickersThirdParty.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 6,6 MB compressed, 15,5 MB uncompressed
+App size: 6,6 MB compressed, 15,5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
