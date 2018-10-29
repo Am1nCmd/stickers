@@ -38,6 +38,7 @@
 		754365952185417600CD39D6 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 754365772185417600CD39D6 /* 12.png */; };
 		754365962185417600CD39D6 /* 22.png in Resources */ = {isa = PBXBuildFile; fileRef = 754365782185417600CD39D6 /* 22.png */; };
 		754365972185417600CD39D6 /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 754365792185417600CD39D6 /* 14.png */; };
+		75681F2B2186ED9600FD9ED9 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 75681F2A2186ED9600FD9ED9 /* GameKit.framework */; };
 		8A0A6DCD1FE9F1CE00110AF2 /* UIAlertController+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */; };
 		8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E51FB3B47B0082201D /* YYImage.m */; };
 		8A18E2EF1FB3B47D0082201D /* YYAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E81FB3B47C0082201D /* YYAnimatedImageView.m */; };
@@ -116,6 +117,8 @@
 		754365772185417600CD39D6 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
 		754365782185417600CD39D6 /* 22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 22.png; sourceTree = "<group>"; };
 		754365792185417600CD39D6 /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = "<group>"; };
+		75681F2A2186ED9600FD9ED9 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		75681F2C2186EDBD00FD9ED9 /* WAStickersThirdParty.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = WAStickersThirdParty.entitlements; sourceTree = "<group>"; };
 		8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Additions.swift"; sourceTree = "<group>"; };
 		8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WAStickersThirdParty-Bridging-Header.h"; sourceTree = "<group>"; };
 		8A18E2E41FB3B47B0082201D /* YYImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYImage.h; sourceTree = "<group>"; };
@@ -171,6 +174,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8ABEBD8421029767005F348C /* WebP.framework in Frameworks */,
+				75681F2B2186ED9600FD9ED9 /* GameKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,6 +218,7 @@
 		8A22EE021F9A9F40003A7F21 /* WAStickersThirdParty */ = {
 			isa = PBXGroup;
 			children = (
+				75681F2C2186EDBD00FD9ED9 /* WAStickersThirdParty.entitlements */,
 				8A22EE031F9A9F40003A7F21 /* AppDelegate.swift */,
 				8ACB6A971FE9CB7700A564BB /* Limits.swift */,
 				8A40BE641FB122B3003AD704 /* StickerPack.swift */,
@@ -276,6 +281,7 @@
 		8A40BE481FB100C3003AD704 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				75681F2A2186ED9600FD9ED9 /* GameKit.framework */,
 				8A18E2F91FB3B5D00082201D /* libz.tbd */,
 				8ABEBD8321029766005F348C /* WebP.framework */,
 				8A18E2F81FB3B5CC0082201D /* MobileCoreServices.framework */,
@@ -347,6 +353,12 @@
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 0;
+							};
+							com.apple.GameCenter.iOS = {
+								enabled = 1;
+							};
+							com.apple.Siri = {
+								enabled = 1;
 							};
 						};
 					};
@@ -587,9 +599,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
+				CODE_SIGN_ENTITLEMENTS = WAStickersThirdParty/WAStickersThirdParty.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3WPTNW4LJL;
+				DEVELOPMENT_TEAM = EBLE6NHT75;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -597,7 +610,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.WAStickers.SteveJobs;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kloteran.SJobsStickerforWhatsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
@@ -613,9 +626,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
+				CODE_SIGN_ENTITLEMENTS = WAStickersThirdParty/WAStickersThirdParty.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3WPTNW4LJL;
+				DEVELOPMENT_TEAM = EBLE6NHT75;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -623,7 +637,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.WAStickers.SteveJobs;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kloteran.SJobsStickerforWhatsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
