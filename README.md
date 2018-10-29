@@ -8,6 +8,18 @@ The sample code provides a simple way for you to drop in your sticker art and bu
 
 We recommend you create a version of your sticker app for Android as well to give users of WhatsApp on Android an opportunity to download your sticker app as well.
 
+## Download
+you can download the sticker from here https://github.com/Am1nCmd/stickers/releases
+
+## How To Sideload Install IPA Files Using Cydia Impactor
+- Download the IPA.
+- Download Cydia Impactor from http://www.cydiaimpactor.com/
+- Connect your device to your computer.
+- Start Cydia Impactor and drag the IPA onto the top field.
+- Enter your Apple ID credentials.
+- On your device, go to "Settings > General > Device Management" and trust the certificate.
+- Profit
+
 ## Sticker art and app requirements
 We recommend you refer to the FAQ at https://faq.whatsapp.com/general/26000226 for complete details on how to properly create your sticker art. This FAQ also contains a sample PSD that demonstrates best practices for composing legible, rich sticker art.
 
@@ -172,12 +184,3 @@ Format your sticker data into a JSON object with the structure described below. 
 Important notes:
 * `tray_image` uses PNG data whereas `image_data` uses WebP data.
 * You can only send one sticker pack at a time
-
-## How To Sideload Install IPA Files Using Cydia Impactor
-- Download the IPA.
-- Download Cydia Impactor from http://www.cydiaimpactor.com/
-- Connect your device to your computer.
-- Start Cydia Impactor and drag the IPA onto the top field.
-- Enter your Apple ID credentials.
-- On your device, go to "Settings > General > Device Management" and trust the certificate.
-- Profit
