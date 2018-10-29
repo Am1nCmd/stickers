@@ -33,13 +33,13 @@
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "Cuppy_120.png",
+      "filename" : "120.jpg",
       "scale" : "2x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "Cuppy_180.png",
+      "filename" : "180.jpg",
       "scale" : "3x"
     },
     {
@@ -90,7 +90,7 @@
     {
       "size" : "1024x1024",
       "idiom" : "ios-marketing",
-      "filename" : "Cuppy_1024.jpg",
+      "filename" : "SystemLogo (2) (1).jpg",
       "scale" : "1x"
     }
   ],

@@ -39,6 +39,7 @@
 		754365962185417600CD39D6 /* 22.png in Resources */ = {isa = PBXBuildFile; fileRef = 754365782185417600CD39D6 /* 22.png */; };
 		754365972185417600CD39D6 /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 754365792185417600CD39D6 /* 14.png */; };
 		75681F2B2186ED9600FD9ED9 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 75681F2A2186ED9600FD9ED9 /* GameKit.framework */; };
+		75681F30218774C200FD9ED9 /* tray_Am1nCmd.png in Resources */ = {isa = PBXBuildFile; fileRef = 75681F2F218774C100FD9ED9 /* tray_Am1nCmd.png */; };
 		8A0A6DCD1FE9F1CE00110AF2 /* UIAlertController+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */; };
 		8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E51FB3B47B0082201D /* YYImage.m */; };
 		8A18E2EF1FB3B47D0082201D /* YYAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E81FB3B47C0082201D /* YYAnimatedImageView.m */; };
@@ -67,7 +68,6 @@
 		8AB5951920C1FC130076625E /* Sticker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951820C1FC130076625E /* Sticker.swift */; };
 		8AB5951B20C1FC440076625E /* ImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951A20C1FC440076625E /* ImageData.swift */; };
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
-		8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234882146F63D00E3667B /* tray_Cuppy.png */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
 /* End PBXBuildFile section */
@@ -119,6 +119,7 @@
 		754365792185417600CD39D6 /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = "<group>"; };
 		75681F2A2186ED9600FD9ED9 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
 		75681F2C2186EDBD00FD9ED9 /* WAStickersThirdParty.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = WAStickersThirdParty.entitlements; sourceTree = "<group>"; };
+		75681F2F218774C100FD9ED9 /* tray_Am1nCmd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray_Am1nCmd.png; path = ../../../../../Downloads/116360017/tray_Am1nCmd.png; sourceTree = "<group>"; };
 		8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Additions.swift"; sourceTree = "<group>"; };
 		8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WAStickersThirdParty-Bridging-Header.h"; sourceTree = "<group>"; };
 		8A18E2E41FB3B47B0082201D /* YYImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYImage.h; sourceTree = "<group>"; };
@@ -163,7 +164,6 @@
 		8AB5951820C1FC130076625E /* Sticker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sticker.swift; sourceTree = "<group>"; };
 		8AB5951A20C1FC440076625E /* ImageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageData.swift; sourceTree = "<group>"; };
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
-		8AC234882146F63D00E3667B /* tray_Cuppy.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = tray_Cuppy.png; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -273,7 +273,7 @@
 				7543655E2185417500CD39D6 /* 28.png */,
 				7543655F2185417500CD39D6 /* 29.png */,
 				7543656F2185417600CD39D6 /* 30.png */,
-				8AC234882146F63D00E3667B /* tray_Cuppy.png */,
+				75681F2F218774C100FD9ED9 /* tray_Am1nCmd.png */,
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
@@ -400,9 +400,9 @@
 				7543657C2185417600CD39D6 /* 28.png in Resources */,
 				754365902185417600CD39D6 /* 9.png in Resources */,
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
+				75681F30218774C200FD9ED9 /* tray_Am1nCmd.png in Resources */,
 				754365912185417600CD39D6 /* 3.png in Resources */,
 				754365952185417600CD39D6 /* 12.png in Resources */,
-				8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */,
 				754365832185417600CD39D6 /* 17.png in Resources */,
 				7543658E2185417600CD39D6 /* 11.png in Resources */,
 				754365922185417600CD39D6 /* 23.png in Resources */,
@@ -610,7 +610,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kloteran.SJobsStickerforWhatsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Am1nCmd.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
@@ -637,7 +637,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kloteran.SJobsStickerforWhatsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Am1nCmd.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";

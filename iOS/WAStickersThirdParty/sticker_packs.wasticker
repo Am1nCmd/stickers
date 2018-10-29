@@ -3,10 +3,10 @@
     "android_play_store_link" : "",
     "sticker_packs" : [
     {
-        "identifier": "SteveJobs",
-        "name": "Steve Jobs",
+        "identifier": "Am1nCmd",
+        "name": "Stickers",
         "publisher": "Amin Aenurahman",
-        "tray_image_file" : "tray_Cuppy.png",
+        "tray_image_file" : "tray_Am1nCmd.png",
         "publisher_website" : "http://github.com/Am1nCmd/stickers",
         "privacy_policy_website" : "https://www.whatsapp.com/legal/#terms-of-service",
         "license_agreement_website" : "https://github.com/WhatsApp/stickers/blob/master/LICENSE",
